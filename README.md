@@ -1,6 +1,6 @@
-# 👩‍💻 Hi there, I'm Nadeen Mahmoud! 
+# Nadeen Mahmoud
 
-<h3 align="center">Data Science & AI Undergraduate | Zewail City of Science and Technology</h3>
+<h3 align="center">Data Science & Artificial Intelligence | Zewail City of Science and Technology</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nadeen-mahmoud" target="_blank">
@@ -13,66 +13,62 @@
 
 ---
 
-### 💡 About Me
-I am an undergraduate student majoring in Data Science and Artificial Intelligence. I am passionate about building intelligent systems, focusing heavily on machine learning transparency and advanced neural architectures.
+### Professional Summary
+Undergraduate Data Science and Artificial Intelligence student (Expected Graduation: Summer 2027) with a strong foundation in machine learning transparency, deep learning architectures, and big data processing. Native Arabic speaker with C1 professional proficiency in English, actively seeking internship opportunities to apply academic research to enterprise-level challenges.
 
-- 🔭 **Currently researching & planning:** Brain-Computer Interfaces (BCI) and EEG-based signal processing for an upcoming graduation project involving moving prosthetics.
-- 🧠 **Focus areas:** Explainable AI (XAI), Deep Learning, and Big Data.
-- 💬 **Ask me about:** SHAP, LIME, Grad-CAM, Integrated Gradients, CNNs, LSTMs, and Transformers.
-- 🌱 **Currently looking for:** Internship and career opportunities in the AI and Data Science sector.
+**Academic & Research Focus:**
+* **Explainable AI (XAI):** Evaluating and interpreting complex classification models utilizing SHAP, LIME, Grad-CAM, Integrated Gradients, and ALE plots. 
+* **Deep Learning Architectures:** Researching and implementing advanced neural networks, including CNNs, LSTMs, and Transformers for predictive modeling and computer vision.
+* **Brain-Computer Interfaces (BCI):** Currently developing a graduation project focused on analyzing EEG signals via OpenBCI and Muse 2 hardware to control moving prosthetics.
+* **Core Coursework:** Recently completed advanced studies in Big Data and XAI.
 
 ---
 
-### 🛠️ Tech Stack
+### Technical Proficiencies
 
-**Languages & Web**  
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Machine Learning & AI**  
+**Machine Learning, Deep Learning & XAI**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-**Data Science & Visualization**  
+**Data Science, Big Data & Visualization**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 
-**Tools & Environments**  
+**Development & Research Environments**  
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 ---
 
-### 🏆 GitHub Activity & Trophies
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NadeenMahmoud-DSAI&theme=radical&margin-w=15&column=4" alt="Trophies" />
-  </a>
-</p>
+| Project | Description | Stack / Tools |
+|---------|-------------|---------------|
+| **BCI Prosthetics Controller (WIP)** | Engineering an interface to process real-time EEG signals for the actuation of moving prosthetics, bridging neuroscience and applied machine learning. | Python, OpenBCI, Muse 2, Signal Processing |
+| **XAI Model Evaluator** | Systematically auditing opaque classification models to extract feature importance and behavioral insights, improving algorithmic transparency. | Python, Scikit-learn, SHAP, LIME, ALE |
+| **EasePharma** | Developed a web-based platform facilitating local medicine discovery, stock comparison, and ordering mechanisms for end-users. | HTML, Web Technologies |
+| **Deep Learning Implementations** | Repository of academic implementations and experiments focused on sequential and spatial data processing. | TensorFlow, Keras, CNNs, LSTMs, Transformers |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadeenMahmoud-DSAI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadeenMahmoud-DSAI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
-
-### 📁 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **EasePharma** | Web-based platform allowing users to search, compare, and order medicines from nearby pharmacies. | HTML, Web Tech |
-| **BCI Prosthetics Controller (WIP)** | Planning a system to analyze EEG signals for moving prosthetics via brain-computer interfaces. | Python, OpenBCI |
-| **XAI Model Evaluator** | Implementing ALE plots, SHAP, and LIME to interpret complex classification models. | Python, Scikit-learn, XAI |
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NadeenMahmoud-DSAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NadeenMahmoud-DSAI&theme=radical&margin-w=15&column=4&no-bg=true" alt="Trophies" />
+  </a>
 </p>
