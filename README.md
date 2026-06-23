@@ -14,7 +14,7 @@
 ---
 
 ### 💡 About Me
-I am a 3rd-year undergraduate student majoring in Data Science and Artificial Intelligence. I am passionate about building intelligent systems, focusing heavily on machine learning transparency and advanced neural architectures.
+I am an undergraduate student majoring in Data Science and Artificial Intelligence. I am passionate about building intelligent systems, focusing heavily on machine learning transparency and advanced neural architectures.
 
 - 🔭 **Currently researching & planning:** Brain-Computer Interfaces (BCI) and EEG-based signal processing for an upcoming graduation project involving moving prosthetics.
 - 🧠 **Focus areas:** Explainable AI (XAI), Deep Learning, and Big Data.
